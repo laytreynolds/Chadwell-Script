@@ -18,7 +18,8 @@ python3 -m venv /path/to/new/virtual/environment
 
 **Install Playwright Packages and Browsers**<br>
 pip3 install pytest-playwright<br>
-playwright install 
+playwright install<br>
+pip3 install playwright_stealth
 
 
 
