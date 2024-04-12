@@ -20,6 +20,10 @@ LIST_NAME = "Newsletter"
 SEARCH_LIST = 'Call Centre Accounting'
 CONTACTS_PER_C0 = '2'
 
+ # Browser - need to run chrome dev tools
+    # Mac - /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9666
+    # Windows - C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9666
+    
 
 def run(playwright: Playwright) -> None:
 
