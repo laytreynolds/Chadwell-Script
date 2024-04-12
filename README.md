@@ -1,4 +1,4 @@
-# Running The Script
+# Installing The Script
 
 	 Install python3
 	 
